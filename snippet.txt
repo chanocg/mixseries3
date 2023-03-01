@@ -1,1 +1,1 @@
-<model-viewer src="mix_series.glb" ar ar-modes="webxr scene-viewer quick-look" interaction-prompt="none" camera-controls poster="poster.webp"> </model-viewer>
+<model-viewer src="mix_series.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="0" disable-tap shadow-softness="0" min-camera-orbit="auto 80deg auto" max-camera-orbit="auto 99deg auto"> </model-viewer>
